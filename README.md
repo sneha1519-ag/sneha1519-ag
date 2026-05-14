@@ -4,7 +4,7 @@
 
 Currently pursuing B.Tech at GLA University (2026) · Google-Certified Data Analyst · Oracle AI Foundations Certified
 
-📍 India &nbsp;|&nbsp; 📧 sneha221agarwal@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) &nbsp;|&nbsp; [Portfolio](YOUR-PORTFOLIO-LINK-IF-ANY)
+📍 India &nbsp;|&nbsp; 📧 sneha221agarwal@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/ag-sneha/) &nbsp;|&nbsp; [Portfolio](https://sneha-agarwal-portfolio.netlify.app/)
 
 ---
 
