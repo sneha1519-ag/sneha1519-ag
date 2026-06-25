@@ -2,7 +2,7 @@
 
 **Data Analyst & AI/ML Engineer** — I build tools that translate data into decisions and natural language into insights.
 
-Currently pursuing B.Tech at GLA University (2026) · Google-Certified Data Analyst · Oracle AI Foundations Certified
+Completed my B.Tech from GLA University (2026) · Google-Certified Data Analyst · Oracle AI Foundations Certified
 
 📍 India &nbsp;|&nbsp; 📧 sneha221agarwal@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/ag-sneha/) &nbsp;|&nbsp; [Portfolio](https://sneha-agarwal-portfolio.netlify.app/)
 
